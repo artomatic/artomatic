@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
 
-<h4 align="left">I have a Bachelor's degree in Neuroscience from UCLA and I'm currently finishing up my full-stack web development bootcamp with Bloomtech as I try to break into the promising world of the tech industry.</h4>
+<h4 align="left">Having earned a Bachelor's degree in Neuroscience from UCLA, I'm currently finishing up my full-stack web development bootcamp with Bloomtech as I try to break into the promising world of the tech industry.</h4>
 <h4 align="left">I'm also a political activist for a non-profit grassroots organization representing the Armenian Cause to North Carolinian Senators and Congressmen in DC.</h4>
 <h4 align="left">Let your stumbling upon my page be the start of something great!</h4>
 
