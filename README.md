@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer in Charlotte, NC</h3>
 
 <h4 align="left">Having earned a Bachelor's degree in Neuroscience from UCLA, I'm currently finishing up my full-stack web development bootcamp with Bloomtech as I try to break into the promising world of the tech industry.</h4>
-<h4 align="left">I'm also a political activist for a non-profit grassroots organization representing the Armenian Cause to North Carolinian Senators and Congressmen in DC.</h4>
+<h4 align="left">As a volunteer, I serve as the Regional Chairman for a grassroots non-profit political organization in representing the Armenian Cause to North Carolinian Senators and Congressmen in DC.</h4>
 <h4 align="left">Let your stumbling upon my page be the start of something great!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatic&label=Profile%20views&color=0e75b6&style=flat" alt="artomatic" /> </p>
