@@ -5,9 +5,9 @@
 <h4 align="left">As a volunteer I lead the regional branch of a global non-profit grassroots political advocacy  organization focused on human rights and international relations.</h4>
 <h4 align="left">Let your stumbling upon my page be the start of something great!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatic&label=Profile%20views&color=0e75b6&style=flat" alt="artomatic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatiq&label=Profile%20views&color=0e75b6&style=flat" alt="artomatiq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artomatic" alt="artomatic" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artomatiq" alt="artomatiq" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
