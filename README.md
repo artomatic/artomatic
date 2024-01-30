@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
 
-<h4 align="left">I'm a full-stack web developer passionate about tackling complex, real-world problems with code that is both efficient and elegant. Cultivating vibrant communities, building a strong network, and using tech to contribute to social causes are integral to my priorities and values.</h4>
+<h4 align="left">I'm a full-stack web developer passionate about tackling complex real-world problems with code that is both efficient and elegant. Cultivating vibrant communities, building a strong network, and using tech to contribute to social causes are integral to my priorities and values.</h4>
 <h4 align="left">I have a Neuroscience B.S. degree from UCLA and, as a volunteer, I lead the regional branch of a global non-profit grassroots organization focused on human rights and political advocacy.</h4>
 <h4 align="left">Let your stumbling upon my page be the start of something great!</h4>
 
