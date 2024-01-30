@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
 
-<h4 align="left">I'm currently finishing up my full-stack web development bootcamp with Bloomtech as I try to break into the promising world of the tech industry after having earned a Bachelor's degree in Neuroscience from UCLA.</h4>
-<h4 align="left">As a volunteer, I lead the regional branch of a global non-profit grassroots organization focused on human rights and political advocacy.</h4>
+<h4 align="left">I'm a full-stack web developer passionate about tackling complex, real-world problems with code that is both efficient and elegant. Cultivating vibrant communities, building a strong network, and using tech to contribute to social causes are integral to my priorities and values.</h4>
+<h4 align="left">I have a Neuroscience B.S. degree from UCLA and, as a volunteer, I lead the regional branch of a global non-profit grassroots organization focused on human rights and political advocacy.</h4>
 <h4 align="left">Let your stumbling upon my page be the start of something great!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatiq&label=Profile%20views&color=0e75b6&style=flat" alt="artomatiq" /> </p>
