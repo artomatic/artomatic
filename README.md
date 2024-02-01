@@ -1,4 +1,4 @@
-https://github.com/artomatiq/artomatiq/blob/main/Github%20Intro.mp4
+![video]https://github.com/artomatiq/artomatiq/blob/main/Github%20Intro.mp4
 
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
