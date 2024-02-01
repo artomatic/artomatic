@@ -1,5 +1,8 @@
 https://github.com/artomatiq/artomatiq/assets/126132705/794ad463-9e84-4d64-9407-94680d1990b1
 
+![200w](https://github.com/artomatiq/artomatiq/assets/126132705/15ecc6c1-8630-4809-b207-85284d0cdd0f)
+
+
 
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
