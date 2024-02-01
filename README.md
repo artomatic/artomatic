@@ -1,3 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typewriter Effect</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      margin: 100px;
+    }
+    #typewriter-text {
+      overflow: hidden; /* Ensures the text is initially hidden */
+      border-right: .15em solid orange; /* Cursor effect */
+      white-space: nowrap; /* Keeps the text on one line */
+      font-size: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <div id="typewriter-text"></div>
+
+  <script>
+    const text = "Hello, I am Art";
+    const speed = 100; // Adjust the speed (milliseconds) to control the typing speed
+    let index = 0;
+
+    function typeWriter() {
+      const typewriterText = document.getElementById("typewriter-text");
+
+      if (index < text.length) {
+        typewriterText.innerHTML += text.charAt(index);
+        index++;
+        setTimeout(typeWriter, speed);
+      }
+    }
+
+    // Start the typing animation when the page loads
+    document.addEventListener("DOMContentLoaded", typeWriter);
+  </script>
+</body>
+</html>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
 
