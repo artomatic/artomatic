@@ -1,4 +1,4 @@
-![final white](https://github.com/artomatiq/artomatiq/assets/126132705/6e6e0d46-3a01-4a80-8da8-9df33d76ca9e)
+![8 5mb short white  (1)](https://github.com/artomatiq/artomatiq/assets/126132705/f600617e-132a-4454-9fb7-399f9481476a)
 
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
