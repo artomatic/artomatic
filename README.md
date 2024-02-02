@@ -18,11 +18,7 @@
 
 <h4 align="center">Review of Pinned Projects.</h4>
 
-<h3 align="left">asylum-rg-fe-starter     Integrated a human rights organization's website with an API and incorporated the Auth0 microservice for secure access to a protected "Profile Page" which I created from start to finish.</h3>
-<h3 align="left">I'm thoroughly convinced that Neuralink will change the world.</h3>
-<h3 align="left">I'm thoroughly convinced that Neuralink will change the world.</h3>
-<h3 align="left">I'm thoroughly convinced that Neuralink will change the world.</h3>
-<h3 align="left">I'm thoroughly convinced that Neuralink will change the world.</h3>
-<h3 align="left">I'm thoroughly convinced that Neuralink will change the world.</h3>
-<h3 align="left">I'm thoroughly convinced that Neuralink will change the world.</h3>
+<h4 align="left">asylum-rg-fe-starter</h4>
+<h5 align="left">Integrated a human rights organization's website with an API and incorporated the Auth0 microservice for secure access to a protected "Profile Page" which I created from start to finish.</h5>
+
 
