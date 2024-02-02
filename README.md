@@ -1,8 +1,4 @@
-
-
-
-
-
+![Uploading finalio short (3).gif…]()
 
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
