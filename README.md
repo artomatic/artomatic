@@ -21,4 +21,19 @@
 <h4 align="left">asylum-rg-fe-starter</h4>
 <h5 align="left">Integrated a human rights organization's website with an API and incorporated the Auth0 microservice for secure access to a protected "Profile Page" which I created from start to finish.</h5>
 
+<h4 align="left">node-api3-project</h4>
+<h5 align="left">Built a backend server using Express to handle CRUD operations for database manipulation. Created and implemented error-handling and custom validation middleware in the Express routes.</h5>
+
+<h4 align="left">asylum-rg-fe-starter</h4>
+<h5 align="left">Integrated a human rights organization's website with an API and incorporated the Auth0 microservice for secure access to a protected "Profile Page" which I created from start to finish.</h5>
+
+<h4 align="left">asylum-rg-fe-starter</h4>
+<h5 align="left">Integrated a human rights organization's website with an API and incorporated the Auth0 microservice for secure access to a protected "Profile Page" which I created from start to finish.</h5>
+
+<h4 align="left">asylum-rg-fe-starter</h4>
+<h5 align="left">Integrated a human rights organization's website with an API and incorporated the Auth0 microservice for secure access to a protected "Profile Page" which I created from start to finish.</h5>
+
+<h4 align="left">asylum-rg-fe-starter</h4>
+<h5 align="left">Integrated a human rights organization's website with an API and incorporated the Auth0 microservice for secure access to a protected "Profile Page" which I created from start to finish.</h5>
+
 
