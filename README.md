@@ -1,11 +1,7 @@
 ![48389b86-7100-4e1b-b01a-77cab7fb5c29](https://github.com/artomatiq/artomatiq/assets/126132705/a5286049-b6f3-4755-9079-8bdd687d8b5f)
 
-<h1 align="center">Hi 👋, I'm Art</h1>
-<h3 align="center">Web Developer in Charlotte, NC</h3>
-
 <h4 align="left">I'm a full-stack web developer passionate about tackling complex problems with efficient and elegant code. Cultivating vibrant communities, building a strong network, and using tech to contribute to social causes are integral to my priorities and values.</h4>
 <h4 align="left">I have a Neuroscience B.S. degree from UCLA and, as a volunteer, I lead the regional branch of a global non-profit grassroots organization focused on human rights and political advocacy.</h4>
-<h4 align="left">Let your stumbling upon my page be the start of something great!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatiq&label=Profile%20views&color=0e75b6&style=flat" alt="artomatiq" /> </p>
 
