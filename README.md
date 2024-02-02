@@ -34,7 +34,7 @@ https://github.com/artomatiq
 &nbsp;
 
 <h4 align="left">web-module-project-async-redux</h4>
-<h5 align="left">Used Redux to build a single-page React app for generating random activities from an API based on user preferences. Developed middleware to construct asynchronous action creators and integrated conditional rendering of multiple interdependent components.</h5>
+<h5 align="left">Used Redux to build a single-page app for generating random activities from an API based on user preferences. Developed middleware to construct asynchronous action creators and integrated conditional rendering of multiple interdependent components.</h5>
 &nbsp;
 
 <h4 align="left">web-module-project-client-auth</h4>
