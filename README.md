@@ -1,4 +1,4 @@
-![Uploading finalio short (3).gif…]()
+![finalio short (3)](https://github.com/artomatiq/artomatiq/assets/126132705/7d02bd27-db13-4c92-9195-1a44bb308aaf)
 
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
