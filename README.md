@@ -1,5 +1,8 @@
 ![finalio short (3)](https://github.com/artomatiq/artomatiq/assets/126132705/7d02bd27-db13-4c92-9195-1a44bb308aaf)
 
+![2 9mb 2 frame](https://github.com/artomatiq/artomatiq/assets/126132705/54067c5f-9b12-4e08-8bb3-a3bcca40479e)
+
+
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">Web Developer in Charlotte, NC</h3>
 
