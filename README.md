@@ -3,6 +3,9 @@
 <h4 align="left">As a full-stack web developer passionate about tackling complex problems with efficient and elegant code, I consider cultivating vibrant communities, building a strong network, contributing to open source, and using tech to advance social causes integral to my priorities and values.</h4>
 <h4 align="left">I have a Neuroscience B.S. degree from UCLA and, as a volunteer, I lead the regional branch of a global non-profit grassroots organization focused on human rights and political advocacy.</h4>
 
+<h4 align="left">Currently working on an admin dashboard with MySQL backend processing of real-time clock-in logs and business reports. See below in the Pinned Projects section for more.</h4>
+&nbsp;
+
 <h4 align="left">I'm thoroughly convinced that Neuralink will change the world.</h4>
 &nbsp;
 
@@ -23,6 +26,20 @@
 &nbsp;
 
 <h3 align="center">Review of Skills / Pinned Projects</h3>
+&nbsp;
+
+<h4 align="left">ccs-expedited</h4>
+<h5 align="left">An admin dashboard for Carolina's Courier Services. The frontend is built with HTML, CSS, JavaScript and React. On the backend, we have Node, Express and MySQL. The driver version of the app implements clock-in functionality, generating time logs in a MySQL database, which the admin then uses to track real-time activity and generate reports. The admin can also assign hourly rates to drivers and easily manage accounts payable.</h5>
+&nbsp;
+
+<h4 align="left">tweetie-bird</h4>
+<h5 align="left">Check out Tweety Bird: The X-Scape, my Flappy Bird JavaScript game clone with a twist inspired by the Twitter vs X rivalry. 🐦🚀
+
+Click to play! https://lnkd.in/eNvgnk25
+
+Many have found it just as addictive as the original game. 
+
+What's the highest score you can get while helping Tweety Bird "X-scape" Elon Musk's starship-fortified Martian landscape?</h5>
 &nbsp;
 
 <h4 align="left">asylum-rg-fe-starter</h4>
