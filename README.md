@@ -36,7 +36,12 @@
 
 Click to play! https://lnkd.in/eNvgnk25
 
-Many have found it just as addictive as the original game. 
+-Created a Flappy Bird clone using HTML, CSS & vanilla JS featuring jumping, gravity & collision detection
+-Used localStorage for keeping track of high score
+-Employed requestAnimationFrame provided by the Web API for smooth animations
+-Implemented deltaTime for frame rate consistency across screens with different refresh rates
+-Optimized game for seamless performance across mobile browsers
+
 
 What's the highest score you can get while helping Tweety Bird "X-scape" Elon Musk's starship-fortified Martian landscape?</h5>
 &nbsp;
