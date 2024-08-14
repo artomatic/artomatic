@@ -32,7 +32,7 @@
 &nbsp;
 
 <h4 align="left">tweetie-bird</h4>
-<h5 align="left">Check out Tweety Bird: The X-Scape, my Flappy Bird JavaScript game clone with a twist inspired by the Twitter vs X rivalry. 🐦🚀
+<h5 align="left">Check out Tweety Bird: The X-Scape, my Flappy Bird JavaScript game clone with a twist inspired by the Twitter vs X rivalry. 🐦🚀 <br />
 
 Click to play! https://lnkd.in/eNvgnk25 <br />
 
