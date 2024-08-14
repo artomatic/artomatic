@@ -34,13 +34,13 @@
 <h4 align="left">tweetie-bird</h4>
 <h5 align="left">Check out Tweety Bird: The X-Scape, my Flappy Bird JavaScript game clone with a twist inspired by the Twitter vs X rivalry. 🐦🚀
 
-Click to play! https://lnkd.in/eNvgnk25
+Click to play! https://lnkd.in/eNvgnk25 <br />
 
--Created a Flappy Bird clone using HTML, CSS & vanilla JS featuring jumping, gravity & collision detection
--Used localStorage for keeping track of high score
--Employed requestAnimationFrame provided by the Web API for smooth animations
--Implemented deltaTime for frame rate consistency across screens with different refresh rates
--Optimized game for seamless performance across mobile browsers
+-Created a Flappy Bird clone using HTML, CSS & vanilla JS featuring jumping, gravity & collision detection <br />
+-Used localStorage for keeping track of high score <br />
+-Employed requestAnimationFrame provided by the Web API for smooth animations <br />
+-Implemented deltaTime for frame rate consistency across screens with different refresh rates <br />
+-Optimized game for seamless performance across mobile browsers <br />
 
 
 What's the highest score you can get while helping Tweety Bird "X-scape" Elon Musk's starship-fortified Martian landscape?</h5>
