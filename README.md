@@ -1,6 +1,6 @@
 ![48389b86-7100-4e1b-b01a-77cab7fb5c29](https://github.com/artomatiq/artomatiq/assets/126132705/a5286049-b6f3-4755-9079-8bdd687d8b5f)
 
-<h4 align="left">As a full-stack web developer passionate about tackling complex problems with efficient and elegant code, I consider cultivating vibrant communities, building a strong network, contributing to open source, and using tech to advance social causes integral to my priorities and values.</h4>
+<h4 align="left">As a full-stack web developer passionate about tackling complex problems with efficient and elegant code. I consider cultivating vibrant communities, building a strong network, contributing to open source, and using tech to advance social causes integral to my priorities and values.</h4>
 <h4 align="left">I have a Neuroscience B.S. degree from UCLA and, as a volunteer, I lead the regional branch of a global non-profit grassroots organization focused on human rights and political advocacy.</h4>
 
 <h4 align="left">I just finished a Twitter vs X inspired vanilla JS Flappy Bird game clone and now I'm working on an admin dashboard with MySQL backend processing of real-time clock-in logs and business reports. See below in the Pinned Projects section for more.</h4>
