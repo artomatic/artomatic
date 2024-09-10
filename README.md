@@ -31,7 +31,7 @@
 <h5 align="left">An admin dashboard for Carolina's Courier Services. The frontend is built with HTML, CSS, JavaScript and React. On the backend, we have Node, Express and MySQL. The driver version of the app implements clock-in functionality, generating time logs in a MySQL database, which the admin then uses to track real-time activity and generate reports. The admin can also assign hourly rates to drivers and easily manage accounts payable.</h5>
 &nbsp;
 
-<br />Link: https://github.com/artomatiq/ccs-expedited <br />
+Link: https://github.com/artomatiq/ccs-expedited <br />
 
 <h4 align="left">tweetie-bird</h4>
 <h5 align="left">Check out Tweety Bird: The X-Scape, my Flappy Bird JavaScript game clone with a twist inspired by the Twitter vs X rivalry. 🐦🚀 <br />
