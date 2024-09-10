@@ -29,7 +29,6 @@
 
 <h4 align="left">ccs-expedited</h4>
 <h5 align="left">An admin dashboard for Carolina's Courier Services. The frontend is built with HTML, CSS, JavaScript and React. On the backend, we have Node, Express and MySQL. The driver version of the app implements clock-in functionality, generating time logs in a MySQL database, which the admin then uses to track real-time activity and generate reports. The admin can also assign hourly rates to drivers and easily manage accounts payable.</h5>
-&nbsp;
 
 Link: https://github.com/artomatiq/ccs-expedited <br />
 
