@@ -50,23 +50,27 @@ What's the highest score you can get while helping Tweety Bird "X-scape" Elon Mu
 <h4 align="left">asylum-rg-fe-starter</h4>
 <h5 align="left">Integrated a human rights organization's website with an API and incorporated the Auth0 microservice for secure access to a protected "Profile Page" which I created from start to finish.</h5>
 
-< br /> Link: https://github.com/artomatiq/asylum-rg-fe-starter
+<br /> Link: https://github.com/artomatiq/asylum-rg-fe-starter
 
 <h4 align="left">node-api3-project</h4>
 <h5 align="left">Built a backend server using Express to handle CRUD operations for database manipulation. Created and implemented error-handling and custom validation middleware in the Express routes.</h5>
-&nbsp;
+
+<br /> Link: https://github.com/artomatiq/node-api3-project
 
 <h4 align="left">web-module-project-async-redux</h4>
 <h5 align="left">Used Redux to build a single-page app for generating random activities from an API based on user preferences. Developed middleware to construct asynchronous action creators and integrated conditional rendering of multiple interdependent components.</h5>
-&nbsp;
+
+<br /> Link: https://github.com/artomatiq/web-module-project-async-redux
 
 <h4 align="left">web-module-project-client-auth</h4>
 <h5 align="left">Cloned a given client auth application with an identical DOM profile while matching styling and optimizing new and existing links. Set up client authorization using localStorage and built CRUD functional operations.</h5>
-&nbsp;
+
+<br /> Link: https://github.com/artomatiq/web-module-project-client-auth
 
 <h4 align="left">web-module-project-HTTP </h4>
 <h5 align="left">Added CRUD operations for syncing server data with the internal state of this React app.</h5>
-&nbsp;
+
+<br /> Link: https://github.com/artomatiq/web-module-project-HTTP
 
 <h4 align="left">web-module-project-reducer </h4>
 <h5 align="left">Developed a calculator using Redux. Built reducer cases and action creators and linked the reducer state with the application's UI.</h5>
