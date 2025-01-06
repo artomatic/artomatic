@@ -72,7 +72,7 @@
 &nbsp;
 
 <h4 align="left">courier-website</h4>
-<h5 align="left">Developed the React application from the ground up, implementing a responsive design to ensure seamless usability across mobile, tablet, and desktop devices. The application integrates the EmailJS API to automate email notifications, streamlining client communication. Additionally, the Google Maps API was implemented for address autocomplete, improving accuracy and enhancing the overall user experience. Dynamic scheduling validation was designed using the SweetAlert library, ensuring conflict-free bookings. The user interface was further enhanced with CSS animations, creating an engaging and visually appealing experience.</h5>
+<h5 align="left">Developed a business website with React from the ground up, implementing a responsive design to ensure seamless usability across mobile, tablet, and desktop devices. The application integrates the EmailJS API to automate email notifications, streamlining client communication. Additionally, the Google Maps API was implemented for address autocomplete, improving accuracy and enhancing the overall user experience. Dynamic scheduling validation was designed using the SweetAlert library, ensuring conflict-free bookings. The user interface was further enhanced with CSS animations, creating an engaging and visually appealing experience.</h5>
 
 Link: https://github.com/artomatiq/ccs-website <br />
 
