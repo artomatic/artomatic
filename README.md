@@ -71,7 +71,14 @@
 <h3 align="center">Review of Skills / Pinned Projects</h3>
 &nbsp;
 
-<h4 align="left">ccs-expedited</h4>
+<h4 align="left">courier-website</h4>
+<h5 align="left">Developed the React application from the ground up, implementing a responsive design to ensure seamless usability across mobile, tablet, and desktop devices. The application integrates the EmailJS API to automate email notifications, streamlining client communication. Additionally, the Google Maps API was implemented for address autocomplete, improving accuracy and enhancing the overall user experience. Dynamic scheduling validation was designed using the SweetAlert library, ensuring conflict-free bookings. The user interface was further enhanced with CSS animations, creating an engaging and visually appealing experience.</h5>
+
+Link: https://github.com/artomatiq/ccs-website <br />
+
+&nbsp;
+
+<h4 align="left">admin-dashboard</h4>
 <h5 align="left">An admin dashboard for Carolina's Courier Services. The frontend is built with HTML, CSS, JavaScript and React. On the backend, we have Node, Express and MySQL. The driver version of the app implements clock-in functionality, generating time logs in a MySQL database, which the admin then uses to track real-time activity and generate reports. The admin can also assign hourly rates to drivers and easily manage accounts payable.</h5>
 
 Link: https://github.com/artomatiq/ccs-expedited <br />
